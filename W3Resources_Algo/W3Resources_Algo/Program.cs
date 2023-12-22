@@ -53,8 +53,28 @@ namespace W3Resources_Algo
 
             //solutions.RangeGPT();
 
+
+            //Console.WriteLine(solutions.Ranges(70, 30, 15));
+
+
+            //Console.WriteLine(solutions.CheckRange(3, 40));
+
+
+            //Console.WriteLine(solutions.FirstTwo("ytade"));
+
+
+            //Console.WriteLine(solutions.ModifyString("Sytide"));
+
+
+            Console.WriteLine(solutions.Largest(10, 20, 30));
+
         }
+
+
+        
+
     }
+
 
     public class Solutions
     {
@@ -298,6 +318,64 @@ namespace W3Resources_Algo
         //    return false;
 
         //}
+
+
+        //public bool Ranges(int c, int d, int q)
+        //{
+        //    if (c >= 20 && c <= 50 || d >= 20 && d <= 50 || q >= 20 && q <= 50)
+        //    {
+        //        return true;
+        //    }
+        //    return false;
+        //}
+
+
+
+        //public bool CheckRange(int num1, int num2)
+        //{
+
+        //    bool inRange1 = num1 >= 20 && num1 <= 50;
+        //    bool inRange2 = num2 >= 20 && num2 <= 50;
+
+        //    return inRange1 != inRange2;
+        //}
+
+
+        //public string FirstTwo(string z)
+        //{
+        //    string initial = z.Substring(0, 2);
+
+        //    if (initial == "yt")
+        //    {
+        //        return z.Remove(0, 2);
+        //    }
+        //    else
+        //    {
+        //        return z;
+        //    }
+        //}
+
+
+        // Function to check if 'yt' appears at index 1 and modify the string accordingly
+        //public string ModifyString(string input)
+        //{
+        //    if (input.Length >= 2 && input.Substring(1, 2) == "yt")
+        //    {
+        //        return input.Remove(1, 2);  
+        //    }
+        //    else
+        //    {
+        //        return input;
+        //    }
+        //}
+
+
+        public int Largest(int a, int b, int c)
+        {
+             return Math.Max(Math.Max(a, b), c);
+
+             
+        }
 
     }
 

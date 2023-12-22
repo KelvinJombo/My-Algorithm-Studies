@@ -12,3 +12,17 @@ C:\Users\HP\OneDrive\Desktop\AlgorithmStudies\W3Resources_Algo\W3Resources_Algo\
 C:\Users\HP\OneDrive\Desktop\AlgorithmStudies\W3Resources_Algo\W3Resources_Algo\obj\Debug\net7.0\W3Resources_Algo.pdb
 C:\Users\HP\OneDrive\Desktop\AlgorithmStudies\W3Resources_Algo\W3Resources_Algo\obj\Debug\net7.0\W3Resources_Algo.genruntimeconfig.cache
 C:\Users\HP\OneDrive\Desktop\AlgorithmStudies\W3Resources_Algo\W3Resources_Algo\obj\Debug\net7.0\ref\W3Resources_Algo.dll
+C:\Users\HP\OneDrive\Desktop\Git Algo\My-Algorithm-Studies\W3Resources_Algo\W3Resources_Algo\bin\Debug\net7.0\W3Resources_Algo.exe
+C:\Users\HP\OneDrive\Desktop\Git Algo\My-Algorithm-Studies\W3Resources_Algo\W3Resources_Algo\bin\Debug\net7.0\W3Resources_Algo.deps.json
+C:\Users\HP\OneDrive\Desktop\Git Algo\My-Algorithm-Studies\W3Resources_Algo\W3Resources_Algo\bin\Debug\net7.0\W3Resources_Algo.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Git Algo\My-Algorithm-Studies\W3Resources_Algo\W3Resources_Algo\bin\Debug\net7.0\W3Resources_Algo.dll
+C:\Users\HP\OneDrive\Desktop\Git Algo\My-Algorithm-Studies\W3Resources_Algo\W3Resources_Algo\bin\Debug\net7.0\W3Resources_Algo.pdb
+C:\Users\HP\OneDrive\Desktop\Git Algo\My-Algorithm-Studies\W3Resources_Algo\W3Resources_Algo\obj\Debug\net7.0\W3Resources_Algo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Git Algo\My-Algorithm-Studies\W3Resources_Algo\W3Resources_Algo\obj\Debug\net7.0\W3Resources_Algo.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Git Algo\My-Algorithm-Studies\W3Resources_Algo\W3Resources_Algo\obj\Debug\net7.0\W3Resources_Algo.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Git Algo\My-Algorithm-Studies\W3Resources_Algo\W3Resources_Algo\obj\Debug\net7.0\W3Resources_Algo.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Git Algo\My-Algorithm-Studies\W3Resources_Algo\W3Resources_Algo\obj\Debug\net7.0\W3Resources_Algo.dll
+C:\Users\HP\OneDrive\Desktop\Git Algo\My-Algorithm-Studies\W3Resources_Algo\W3Resources_Algo\obj\Debug\net7.0\refint\W3Resources_Algo.dll
+C:\Users\HP\OneDrive\Desktop\Git Algo\My-Algorithm-Studies\W3Resources_Algo\W3Resources_Algo\obj\Debug\net7.0\W3Resources_Algo.pdb
+C:\Users\HP\OneDrive\Desktop\Git Algo\My-Algorithm-Studies\W3Resources_Algo\W3Resources_Algo\obj\Debug\net7.0\W3Resources_Algo.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\Git Algo\My-Algorithm-Studies\W3Resources_Algo\W3Resources_Algo\obj\Debug\net7.0\ref\W3Resources_Algo.dll
