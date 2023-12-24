@@ -66,7 +66,14 @@ namespace W3Resources_Algo
             //Console.WriteLine(solutions.ModifyString("Sytide"));
 
 
-            Console.WriteLine(solutions.Largest(10, 20, 30));
+            //Console.WriteLine(solutions.Largest(10, 20, 30));
+
+
+            //Console.WriteLine(solutions.Closest100(99, 70));
+
+
+            Console.WriteLine(solutions.EitherRange(45, 55));
+
 
         }
 
@@ -273,7 +280,7 @@ namespace W3Resources_Algo
 
         //}
 
- 
+
         //public void RangeGPT()
         //{
         //    // Sample Input
@@ -306,7 +313,7 @@ namespace W3Resources_Algo
         //{
         //    return number >= 100 && number <= 200;
         //}
-    
+
 
 
         //public bool RangeCheck(int a, int b)
@@ -370,13 +377,93 @@ namespace W3Resources_Algo
         //}
 
 
-        public int Largest(int a, int b, int c)
-        {
-             return Math.Max(Math.Max(a, b), c);
+        //public int Largest(int a, int b, int c)
+        //{
+        //     return Math.Max(Math.Max(a, b), c);
 
-             
+
+        //}
+
+
+        //public int Closest100(int a, int b)
+        //{
+        //    if (a == b)
+        //    {
+        //        return 0;
+        //    }
+        //    else
+        //    {
+        //        if (a < 100 && a > b)
+        //        {
+        //            return a;
+        //        }
+        //        else
+        //        {
+        //            if (b < 100 && b > a)
+        //            {
+        //                return b;
+        //            }
+        //        }
+        //    }
+
+
+        //    return 0;
+        //}
+
+
+        //public int GPTClosestTo100(int num1, int num2)
+        //{
+        //    int distance1 = Math.Abs(100 - num1);
+        //    int distance2 = Math.Abs(100 - num2);
+
+        //    //Math.Absolute returns the distance of the given number from 0 in the number line.
+
+        //    if (distance1 < distance2)
+        //    {
+        //        return num1;
+        //    }
+        //    else if (distance2 < distance1)
+        //    {
+        //        return num2;
+        //    }
+        //    else
+        //    {
+        //        return 0; // Numbers are equal, return 0
+        //    }
+        //}
+
+
+        public bool EitherRange(int r, int s)
+        {
+            if (r >= 40 && r <= 50 && s >= 40 && s <= 50)
+            {
+                return true;
+            }
+            else
+            {
+                if (r >= 50 && r <= 60 && s >= 50 && s <= 60)
+                {
+                    return true;
+                }
+            }
+            return false;
         }
+
+        //OR
+
+
+        public bool GPTCheckRanges(int num1, int num2)
+        {
+            bool range1 = (num1 >= 40 && num1 <= 50) && (num2 >= 40 && num2 <= 50);
+            bool range2 = (num1 >= 50 && num1 <= 60) && (num2 >= 50 && num2 <= 60);
+
+            return range1 || range2;
+        }
+
+
 
     }
 
+
 }
+
